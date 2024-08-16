@@ -17,3 +17,18 @@
 * [Integrations](basics/integrations.md)
 * [Integrations111](basics/1.md)
 * [Integrations222](basics/2.md)
+
+## Shells
+
+* [OpenwebUI]()
+    * [Delete OpenwebUI Docs](shell/openwebui/delete_openwebui_docs.md)
+
+* [Arthas]()
+    * [arthas001]()
+        * [Editor](basics/editor.md)
+        * [Markdown](basics/markdown.md)
+    * [Arthas002]()
+    * [Arthas003]()
+        * [arthas003-1]()
+            * [Editor](basics/editor.md)
+            * [Markdown](basics/markdown.md)
