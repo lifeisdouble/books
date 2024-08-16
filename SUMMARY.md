@@ -2,13 +2,11 @@
 
 * [Hello](README.md)
 
-## Getting Started
-
+## **Getting Started**
 * [Quickstart](getting-started/quickstart.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
 
-## Basics
-
+## **Basics**
 * [Editor](basics/editor.md)
 * [Markdown](basics/markdown.md)
 * [Images & media](basics/images-and-media.md)
@@ -18,11 +16,9 @@
 * [Integrations111](basics/1.md)
 * [Integrations222](basics/2.md)
 
-## Shells
-
+## **Shells**
 * [OpenwebUI]()
     * [Delete OpenwebUI Docs](shell/openwebui/delete_openwebui_docs.md)
-
 * [Arthas]()
     * [arthas001]()
         * [Editor](basics/editor.md)
