@@ -15,3 +15,5 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
+* [Integrations111](basics/1.md)
+* [Integrations222](basics/2.md)
